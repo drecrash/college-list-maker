@@ -1,0 +1,227 @@
+{
+    "stanford": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "3,744",
+            "F": "4,017",
+            "NonRes": "233",
+            "Hispanic": "289",
+            "Black": "126",
+            "White": "381",
+            "Native": "17",
+            "Asian": "505",
+            "TwoMoreNonHispanic": "172",
+            "Unknown": "5"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "730",
+                "770",
+                "1,500"
+            ],
+            "MidSAT": [
+                "760",
+                "790",
+                "1,540"
+            ],
+            "TopSAT": [
+                "780\n",
+                "800\n",
+                "1,570"
+            ],
+            "LowACT": [
+                "32",
+                "35",
+                "30",
+                "33",
+                "34",
+                "33"
+            ],
+            "MidACT": [
+                "35",
+                "35",
+                "32",
+                "35",
+                "35",
+                "35"
+            ],
+            "TopACT": [
+                "36\n",
+                "36\n",
+                "33\n",
+                "36\n",
+                "36\n",
+                "35\n"
+            ],
+            "AvgGPA": " first-time"
+        },
+        "Finances": {
+            "Tuition": "$57,693",
+            "RoomBoard": "",
+            "AvgAid": "$   66,562"
+        }
+    },
+    "ucla": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "19099",
+            "F": "26174",
+            "NonRes": "454",
+            "Hispanic": "1444",
+            "Black": "266",
+            "White": "1614",
+            "Native": "11",
+            "Asian": "1961",
+            "TwoMoreNonHispanic": "487",
+            "Unknown": "212"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 4,
+            "Essay": 1,
+            "LORS": 4,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 4,
+            "Volunteering": 2
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [
+                "",
+                "",
+                ""
+            ],
+            "MidSAT": [
+                "",
+                "",
+                ""
+            ],
+            "TopSAT": [
+                "\n",
+                "\n",
+                ""
+            ],
+            "LowACT": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "MidACT": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "TopACT": [
+                "\n",
+                "\n",
+                "\n",
+                "\n",
+                "\n",
+                "\n"
+            ],
+            "AvgGPA": "3.93\n"
+        },
+        "Finances": {
+            "Tuition": "$45,096",
+            "RoomBoard": "",
+            "AvgAid": 0
+        }
+    },
+    "princeton": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "4,632",
+            "F": "",
+            "NonRes": "222 681",
+            "Hispanic": "125 554",
+            "Black": "128 441",
+            "White": "505 2,076",
+            "Native": "2 7",
+            "Asian": "375 1,299",
+            "TwoMoreNonHispanic": "108 377",
+            "Unknown": ""
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "740",
+                "760",
+                "1510"
+            ],
+            "MidSAT": [
+                "760",
+                "790",
+                "1540"
+            ],
+            "TopSAT": [
+                "780\n",
+                "800\n",
+                "1570"
+            ],
+            "LowACT": [
+                "32",
+                "35",
+                "8",
+                "33",
+                "34",
+                "34"
+            ],
+            "MidACT": [
+                "34",
+                "35",
+                "9",
+                "35",
+                "36",
+                "35"
+            ],
+            "TopACT": [
+                "35\n",
+                "36\n",
+                "10\n",
+                "36\n",
+                "36\n",
+                "35\n"
+            ],
+            "AvgGPA": ""
+        },
+        "Finances": {
+            "Tuition": "$59,710",
+            "RoomBoard": "$19,380",
+            "AvgAid": "0.00%"
+        }
+    }
+}

@@ -1,0 +1,2208 @@
+{
+    "Arizona State University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "36,735",
+            "F": "34,602",
+            "NonRes": "1,072",
+            "Hispanic": "3,895",
+            "Black": "628",
+            "White": "6,533",
+            "Native": "",
+            "Asian": "1,476",
+            "TwoMoreNonHispanic": "827",
+            "Unknown": "549"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 4,
+            "Essay": 4,
+            "LORS": 4,
+            "EC": 4,
+            "FirstGen": 4,
+            "Legacy": 4,
+            "Volunteering": 4
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+
+            ],
+            "MidSAT": [
+
+            ],
+            "TopSAT": [
+
+            ],
+            "LowACT": [
+
+            ],
+            "MidACT": [
+
+            ],
+            "TopACT": [
+
+            ],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "28,800",
+            "RoomBoard": "14,718",
+            "AvgAid": 0
+        }
+    },
+    "Boston University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "7245",
+            "F": "10170",
+            "NonRes": "836",
+            "Hispanic": "422",
+            "Black": "289",
+            "White": "1091",
+            "Native": "1",
+            "Asian": "696",
+            "TwoMoreNonHispanic": "155",
+            "Unknown": "141"
+        },
+        "Importance": {
+            "GPA": 1000,
+            "Standardized": 1000,
+            "Essay": 1000,
+            "LORS": 1000,
+            "EC": 1000,
+            "FirstGen": 1000,
+            "Legacy": 1000,
+            "Volunteering": 1000
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [
+
+            ],
+            "MidSAT": [
+
+            ],
+            "TopSAT": [
+
+            ],
+            "LowACT": [
+                "28",
+                "32",
+                "33",
+                "32",
+                "29",
+                "31"
+            ],
+            "MidACT": [
+                "31",
+                "34",
+                "33",
+                "32",
+                "31",
+                "33"
+            ],
+            "TopACT": [
+                "34",
+                "35",
+                "33",
+                "33",
+                "34",
+                "34"
+            ],
+            "AvgGPA": "3.71"
+        },
+        "Finances": {
+            "Tuition": 59816,
+            "RoomBoard": "16000",
+            "AvgAid": "45724"
+        }
+    },
+    "Carnegie Mellon University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "3567",
+            "F": "3709",
+            "NonRes": "324",
+            "Hispanic": "211",
+            "Black": "78",
+            "White": "356",
+            "Native": "2",
+            "Asian": "569",
+            "TwoMoreNonHispanic": "89",
+            "Unknown": "85"
+        },
+        "Importance": {
+            "GPA": 2,
+            "Standardized": 2,
+            "Essay": 2,
+            "LORS": 2,
+            "EC": 2,
+            "FirstGen": 2,
+            "Legacy": 2,
+            "Volunteering": 2
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "720",
+                "770",
+                "1500"
+            ],
+            "MidSAT": [
+                "750",
+                "790",
+                "1540"
+            ],
+            "TopSAT": [
+                "770",
+                "800",
+                "1560"
+            ],
+            "LowACT": [
+                "33",
+                "34",
+                "34",
+                "34",
+                "34",
+                "34"
+            ],
+            "MidACT": [
+                "35",
+                "35",
+                "35",
+                "36",
+                "35",
+                "35"
+            ],
+            "TopACT": [
+                "36",
+                "35",
+                "34",
+                "34",
+                "34",
+                "35"
+            ],
+            "AvgGPA": "3.84"
+        },
+        "Finances": {
+            "Tuition": "58924",
+            "RoomBoard": "17,158",
+            "AvgAid": 56256
+        }
+    },
+    "Columbia": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "12,034",
+            "F": "14,695",
+            "NonRes": "232",
+            "Hispanic": "286",
+            "Black": "131",
+            "White": "373",
+            "Native": "6",
+            "Asian": "287",
+            "TwoMoreNonHispanic": "122",
+            "Unknown": "22"
+        },
+        "Importance": {
+            "GPA": 1000,
+            "Standardized": 1000,
+            "Essay": 1000,
+            "LORS": 1000,
+            "EC": 1000,
+            "FirstGen": 1000,
+            "Legacy": 1000,
+            "Volunteering": 1000
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [730, 770, 1500],
+            "MidSAT": [730, 790, 1540],
+            "TopSAT": [760, 800, 1560],
+            "LowACT": [32, 35, 9, 33, 34, 34],
+            "MidACT": [34, 35, 10, 35, 36, 35],
+            "TopACT": [35, 36, 11, 36, 36, 35],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "65,340",
+            "RoomBoard": "17,058",
+            "AvgAid": 0
+        }
+    },
+    "Cornell": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "11,801",
+            "F": "13,323",
+            "NonRes": "336",
+            "Hispanic": "538",
+            "Black": "290",
+            "White": "1,071",
+            "Native": "5",
+            "Asian": "823",
+            "TwoMoreNonHispanic": "213",
+            "Unknown": "210"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [
+                "33",
+                "33",
+                "33",
+                "33",
+                "33",
+                "33"
+            ],
+            "MidACT": [
+                "34",
+                "34",
+                "34",
+                "34",
+                "34",
+                "34"
+            ],
+            "TopACT": [
+                "35",
+                "35",
+                "35",
+                "35",
+                "35",
+                "35"
+            ],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "65204",
+            "RoomBoard": "18554",
+            "AvgAid": "36137"
+        }
+    },
+    "Duke University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "7,943",
+            "F": "9,070",
+            "NonRes": "",
+            "Hispanic": "226",
+            "Black": "143",
+            "White": "670",
+            "Native": "4",
+            "Asian": "329",
+            "TwoMoreNonHispanic": "135",
+            "Unknown": "65"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [730, 750, 1490],
+            "MidSAT": [750, 780, 1530],
+            "TopSAT": [770, 800, 1560],
+            "LowACT": [32, 34, 8, 33, 33],
+            "MidACT": [33, 34, 9, 34, 33],
+            "TopACT": [35, 35, 10, 36, 35],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "60,435",
+            "RoomBoard": "16,650",
+            "AvgAid": "49026"
+        }
+    },
+    "Georgetown University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "6,847",
+            "F": "8,535",
+            "NonRes": "151",
+            "Hispanic": "100",
+            "Black": "90",
+            "White": "103",
+            "Native": "0",
+            "Asian": "230",
+            "TwoMoreNonHispanic": "111",
+            "Unknown": "44"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [700, 710, 1410],
+            "MidSAT": [730, 740, 1470],
+            "TopSAT": [770, 780, 1550],
+            "LowACT": [30, 34, 32, 32, 32],
+            "MidACT": [32, 34, 33, 33, 33],
+            "TopACT": [35, 36, 35, 35, 35],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "61,872",
+            "RoomBoard": "18,824",
+            "AvgAid": "49953"
+        }
+    },
+    "Georgia Institute of Technology": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "9757",
+            "F": "6450",
+            "NonRes": "285",
+            "Hispanic": "339",
+            "Black": "322",
+            "White": "1,270",
+            "Native": "0",
+            "Asian": "1,228",
+            "TwoMoreNonHispanic": "163",
+            "Unknown": "39"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 2,
+            "LORS": 3,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 4,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [
+                "670",
+                "700",
+                "1370"
+            ],
+            "MidSAT": [
+                "710",
+                "760",
+                "1470"
+            ],
+            "TopSAT": [
+                "740",
+                "790",
+                "1530"
+            ],
+            "LowACT": [
+                "30",
+                "32",
+                "31",
+                "30",
+                "32",
+                "31"
+            ],
+            "MidACT": [
+                "33",
+                "34",
+                "33",
+                "34",
+                "34",
+                "33"
+            ],
+            "TopACT": [
+                "35",
+                "35",
+                "33",
+                "35",
+                "36",
+                "35"
+            ],
+            "AvgGPA": "3.8"
+        },
+        "Finances": {
+            "Tuition": "33964",
+            "RoomBoard": "12,712",
+            "AvgAid": "11108"
+        }
+    },
+    "Harvard": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "9,641",
+            "F": "10,943",
+            "NonRes": "252",
+            "Hispanic": "193",
+            "Black": "165",
+            "White": "476",
+            "Native": "7",
+            "Asian": "403",
+            "TwoMoreNonHispanic": "123",
+            "Unknown": "20"
+        },
+        "Importance": {
+            "GPA": 3,
+            "Standardized": 3,
+            "Essay": 3,
+            "LORS": 3,
+            "EC": 3,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "730",
+                "760",
+                "1490"
+            ],
+            "MidSAT": [
+                "760",
+                "790",
+                "1550"
+            ],
+            "TopSAT": [
+                "780",
+                "800",
+                "1580"
+            ],
+            "LowACT": [
+                "32",
+                "35",
+                "34",
+                "33",
+                "34",
+                "34"
+            ],
+            "MidACT": [
+                "34",
+                "35",
+                "35",
+                "35",
+                "36",
+                "35"
+            ],
+            "TopACT": [
+                "35",
+                "36",
+                "35",
+                "36",
+                "36",
+                "36"
+            ],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "54,269",
+            "RoomBoard": "20,374",
+            "AvgAid": "53000"
+        }
+    },
+    "Indiana University Bloomington": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "21,270",
+            "F": "20,653",
+            "NonRes": "524",
+            "Hispanic": "782",
+            "Black": "415",
+            "White": "6,425",
+            "Native": "3",
+            "Asian": "1,031",
+            "TwoMoreNonHispanic": "498",
+            "Unknown": "57"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 2,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 1,
+            "Legacy": 2,
+            "Volunteering": 1
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "640",
+                "650",
+                "1280"
+            ],
+            "MidSAT": [
+                "660",
+                "680",
+                "1340"
+            ],
+            "TopSAT": [
+                "690",
+                "710",
+                "1390"
+            ],
+            "LowACT": [
+                "28",
+                "30",
+                "8",
+                "28",
+                "31",
+                "30"
+            ],
+            "MidACT": [
+                "29",
+                "31",
+                "8",
+                "30",
+                "31",
+                "31"
+            ],
+            "TopACT": [
+                "31",
+                "34",
+                "8",
+                "31",
+                "34",
+                "32"
+            ],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "31,409",
+            "RoomBoard": "11,019",
+            "AvgAid": "12677"
+        }
+    },
+    "Johns Hopkins University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "2596",
+            "F": "3048",
+            "NonRes": 201,
+            "Hispanic": 324,
+            "Black": 152,
+            "White": 234,
+            "Native": 3,
+            "Asian": 372,
+            "TwoMoreNonHispanic": 96,
+            "Unknown": 0
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 4,
+            "Volunteering": 2
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "740",
+                "780",
+                "1520"
+            ],
+            "MidSAT": [
+                "760",
+                "790",
+                "1540"
+            ],
+            "TopSAT": [
+                "770",
+                "800",
+                "1560"
+            ],
+            "LowACT": [
+                "33",
+                "35",
+                "34",
+                "33",
+                "34",
+                "34"
+            ],
+            "MidACT": [
+                "35",
+                "35",
+                "35",
+                "34",
+                "35",
+                "35"
+            ],
+            "TopACT": [
+                "35",
+                "36",
+                "35",
+                "36",
+                "35",
+                "35"
+            ],
+            "AvgGPA": "3.92"
+        },
+        "Finances": {
+            "Tuition": "62,840",
+            "RoomBoard": "19,192",
+            "AvgAid": 57579
+        }
+    },
+    "Michigan State University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "20,954",
+            "F": "23,338",
+            "NonRes": "702",
+            "Hispanic": "605",
+            "Black": "552",
+            "White": "6,490",
+            "Native": "30",
+            "Asian": "826",
+            "TwoMoreNonHispanic": "481",
+            "Unknown": "139"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 1,
+            "LORS": 3,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "550",
+                "550",
+                "1110"
+            ],
+            "MidSAT": [
+                "610",
+                "610",
+                "1220"
+            ],
+            "TopSAT": [
+                "660",
+                "680",
+                "1320"
+            ],
+            "LowACT": [
+                "23",
+                "23",
+                "24",
+                "23",
+                "23",
+                "24"
+            ],
+            "MidACT": [
+                "26",
+                "26",
+                "27",
+                "25",
+                "29",
+                "27"
+            ],
+            "TopACT": [
+                "29",
+                "31",
+                "30",
+                "30",
+                "32",
+                "30"
+            ],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "40562",
+            "RoomBoard": "10,990",
+            "AvgAid": "16453"
+        }
+    },
+    "New York University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "20,823",
+            "F": "29,840",
+            "NonRes": "1,556",
+            "Hispanic": "1,000",
+            "Black": "481",
+            "White": "1,311",
+            "Native": "11",
+            "Asian": "1,314",
+            "TwoMoreNonHispanic": "275",
+            "Unknown": "228"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 2,
+            "LORS": 2,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [],
+            "MidACT": [],
+            "TopACT": [],
+            "AvgGPA": "3.8"
+        },
+        "Finances": {
+            "Tuition": "56500",
+            "RoomBoard": "24102",
+            "AvgAid": "28655"
+        }
+    },
+    "North Carolina State University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "11905",
+            "F": "11923",
+            "NonRes": 670,
+            "Hispanic": 2035,
+            "Black": 1475,
+            "White": 3794,
+            "Native": 21,
+            "Asian": 2313,
+            "TwoMoreNonHispanic": 1155,
+            "Unknown": 396
+        },
+        "Importance": {
+            "GPA": 1000,
+            "Standardized": 1000,
+            "Essay": 1000,
+            "LORS": 1000,
+            "EC": 1000,
+            "FirstGen": 1000,
+            "Legacy": 1000,
+            "Volunteering": 1000
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "620",
+                "625",
+                "1245"
+            ],
+            "MidSAT": [
+                "660",
+                "680",
+                "1260"
+            ],
+            "TopSAT": [
+                "700",
+                "740",
+                "1340"
+            ],
+            "LowACT": [
+                "24",
+                "22",
+                "24",
+                "24",
+                "25",
+                "24"
+            ],
+            "MidACT": [
+                "27",
+                "27",
+                "28",
+                "27",
+                "30",
+                "28"
+            ],
+            "TopACT": [
+                "30",
+                "33",
+                "31",
+                "31",
+                "34",
+                "31"
+            ],
+            "AvgGPA": 3.8
+        },
+        "Finances": {
+            "Tuition": "29916",
+            "RoomBoard": "12,748",
+            "AvgAid": "14492"
+        }
+    },
+    "Northwestern University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "3911",
+            "F": "4440",
+            "NonRes": "216",
+            "Hispanic": "351",
+            "Black": "154",
+            "White": "723",
+            "Native": "2",
+            "Asian": "401",
+            "TwoMoreNonHispanic": "164",
+            "Unknown": "75"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [],
+            "MidACT": [],
+            "TopACT": [],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "62,391",
+            "RoomBoard": "19440",
+            "AvgAid": 57600
+        }
+    },
+    "Penn State University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "1,557",
+            "F": "1,178",
+            "NonRes": "62",
+            "Hispanic": "115",
+            "Black": "138",
+            "White": "384",
+            "Native": "0",
+            "Asian": "164",
+            "TwoMoreNonHispanic": "32",
+            "Unknown": "14"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 4,
+            "LORS": 4,
+            "EC": 4,
+            "FirstGen": 4,
+            "Legacy": 3,
+            "Volunteering": 4
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [],
+            "MidACT": [],
+            "TopACT": [],
+            "AvgGPA": "3.58"
+        },
+        "Finances": {
+            "Tuition": "32382",
+            "RoomBoard": "14,818",
+            "AvgAid": "11498"
+        }
+    },
+    "Princeton": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "2769",
+            "F": "2771",
+            "NonRes": 222,
+            "Hispanic": 125,
+            "Black": 128,
+            "White": 505,
+            "Native": 2,
+            "Asian": 375,
+            "TwoMoreNonHispanic": 108,
+            "Unknown": 0
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "740",
+                "760",
+                "1510"
+            ],
+            "MidSAT": [
+                "760",
+                "790",
+                "1540"
+            ],
+            "TopSAT": [
+                "780",
+                "800",
+                "1570"
+            ],
+            "LowACT": [
+                "32",
+                "35",
+                "8",
+                "33",
+                "34",
+                "34"
+            ],
+            "MidACT": [
+                "34",
+                "35",
+                "9",
+                "35",
+                "36",
+                "35"
+            ],
+            "TopACT": [
+                "35",
+                "36",
+                "10",
+                "36",
+                "36",
+                "35"
+            ],
+            "AvgGPA": "3.9"
+        },
+        "Finances": {
+            "Tuition": "59,710",
+            "RoomBoard": "19,380",
+            "AvgAid": "57600"
+        }
+    },
+    "Purdue University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "24,675",
+            "F": "15376",
+            "NonRes": "760",
+            "Hispanic": "725",
+            "Black": "232",
+            "White": "5,559",
+            "Native": "7",
+            "Asian": "1,375",
+            "TwoMoreNonHispanic": "528",
+            "Unknown": "163"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 2,
+            "LORS": 2,
+            "EC": 2,
+            "FirstGen": 2,
+            "Legacy": 4,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [
+                "600",
+                "600",
+                "1210"
+            ],
+            "MidSAT": [
+                "650",
+                "680",
+                "1330"
+            ],
+            "TopSAT": [
+                "710",
+                "760",
+                "1450"
+            ],
+            "LowACT": [
+                "26",
+                "25",
+                "27",
+                "26",
+                "27",
+                "27"
+            ],
+            "MidACT": [
+                "30",
+                "31",
+                "31",
+                "30",
+                "32",
+                "31"
+            ],
+            "TopACT": [
+                "34",
+                "35",
+                "34",
+                "34",
+                "35",
+                "34"
+            ],
+            "AvgGPA": "3.69"
+        },
+        "Finances": {
+            "Tuition": "28794",
+            "RoomBoard": "10,030",
+            "AvgAid": "13143"
+        }
+    },
+    "Stanford": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "8,800",
+            "F": "8,192",
+            "NonRes": "233",
+            "Hispanic": "289",
+            "Black": "126",
+            "White": "381",
+            "Native": "17",
+            "Asian": "505",
+            "TwoMoreNonHispanic": "172",
+            "Unknown": "5"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "730",
+                "770",
+                "1500"
+            ],
+            "MidSAT": [
+                "760",
+                "790",
+                "1540"
+            ],
+            "TopSAT": [
+                "780",
+                "800",
+                "1570"
+            ],
+            "LowACT": [
+                "32",
+                "35",
+                "30",
+                "33",
+                "34",
+                "33"
+            ],
+            "MidACT": [
+                "35",
+                "35",
+                "32",
+                "35",
+                "35",
+                "35"
+            ],
+            "TopACT": [
+                "36",
+                "36",
+                "33",
+                "36",
+                "36",
+                "35"
+            ],
+            "AvgGPA": "3.96"
+        },
+        "Finances": {
+            "Tuition": "57,693",
+            "RoomBoard": "18,619",
+            "AvgAid": "66,562"
+        }
+    },
+    "Texas A&M University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "32,734",
+            "F": "29,849",
+            "NonRes": "",
+            "Hispanic": "3,025",
+            "Black": "269",
+            "White": "6,754",
+            "Native": "27",
+            "Asian": "1,636",
+            "TwoMoreNonHispanic": "485",
+            "Unknown": "34"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 2,
+            "LORS": 3,
+            "EC": 1,
+            "FirstGen": 2,
+            "Legacy": 1000,
+            "Volunteering": 2
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [],
+            "MidACT": [],
+            "TopACT": [],
+            "AvgGPA": "3.68"
+        },
+        "Finances": {
+            "Tuition": "40134",
+            "RoomBoard": "11,550",
+            "AvgAid": "13351"
+        }
+    },
+    "The Ohio State University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "25,663",
+            "F": "27,555",
+            "NonRes": "694",
+            "Hispanic": "462",
+            "Black": "529",
+            "White": "5,225",
+            "Native": "4",
+            "Asian": "835",
+            "TwoMoreNonHispanic": "379",
+            "Unknown": "288"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 2,
+            "LORS": 3,
+            "EC": 2,
+            "FirstGen": 2,
+            "Legacy": 4,
+            "Volunteering": 2
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [],
+            "MidACT": [],
+            "TopACT": [],
+            "AvgGPA": "3.83"
+        },
+        "Finances": {
+            "Tuition": "35019",
+            "RoomBoard": "13,966",
+            "AvgAid": 16449
+        }
+    },
+    "Tufts University": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "4,910",
+            "F": "3712",
+            "NonRes": "220",
+            "Hispanic": "164",
+            "Black": "123",
+            "White": "690",
+            "Native": "0",
+            "Asian": "275",
+            "TwoMoreNonHispanic": "134",
+            "Unknown": "88"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "710",
+                "740",
+                "1460"
+            ],
+            "MidSAT": [
+                "740",
+                "770",
+                "1500"
+            ],
+            "TopSAT": [
+                "760",
+                "790",
+                "1540"
+            ],
+            "LowACT": [
+                "33",
+                "33",
+                "33",
+                "33",
+                "33",
+                "33"
+            ],
+            "MidACT": [
+                "34",
+                "34",
+                "34",
+                "34",
+                "34",
+                "34"
+            ],
+            "TopACT": [
+                "35",
+                "35",
+                "35",
+                "35",
+                "35",
+                "35"
+            ],
+            "AvgGPA": "3.0"
+        },
+        "Finances": {
+            "Tuition": "65222",
+            "RoomBoard": "14300",
+            "AvgAid": "49857"
+        }
+    },
+    "University of California Davis": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "11669",
+            "F": "18517",
+            "NonRes": "1121",
+            "Hispanic": "1,338",
+            "Black": "97",
+            "White": "951",
+            "Native": "8",
+            "Asian": "1,439",
+            "TwoMoreNonHispanic": "294",
+            "Unknown": "96"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 1,
+            "LORS": 4,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 4,
+            "Volunteering": 2
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [],
+            "MidACT": [],
+            "TopACT": [],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "44399",
+            "RoomBoard": "17880",
+            "AvgAid": "18356"
+        }
+    },
+    "University of California Irvine": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "12124",
+            "F": "15555",
+            "NonRes": "611",
+            "Hispanic": "1,720",
+            "Black": "128",
+            "White": "603",
+            "Native": "10",
+            "Asian": "2,189",
+            "TwoMoreNonHispanic": "426",
+            "Unknown": "102"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 4,
+            "Essay": 1,
+            "LORS": 1000,
+            "EC": 1,
+            "FirstGen": 3,
+            "Legacy": 4,
+            "Volunteering": 1
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+            ],
+            "MidSAT": [
+            ],
+            "TopSAT": [
+            ],
+            "LowACT": [
+            ],
+            "MidACT": [
+
+            ],
+            "TopACT": [
+
+            ],
+            "AvgGPA": "3.75"
+        },
+        "Finances": {
+            "Tuition": "43529",
+            "RoomBoard": "18,639",
+            "AvgAid": "26922"
+        }
+    },
+    "University of California Los Angeles": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "19099",
+            "F": "26174",
+            "NonRes": "454",
+            "Hispanic": "1444",
+            "Black": "266",
+            "White": "1614",
+            "Native": "11",
+            "Asian": "1961",
+            "TwoMoreNonHispanic": "487",
+            "Unknown": "212"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 4,
+            "Essay": 1,
+            "LORS": 4,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 4,
+            "Volunteering": 2
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+
+            ],
+            "MidSAT": [
+
+            ],
+            "TopSAT": [
+
+            ],
+            "LowACT": [
+
+            ],
+            "MidACT": [
+
+            ],
+            "TopACT": [
+
+            ],
+            "AvgGPA": "3.93"
+        },
+        "Finances": {
+            "Tuition": "45,096",
+            "RoomBoard": "17231",
+            "AvgAid": 26566
+        }
+    },
+    "University of California San Diego": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "14904",
+            "F": "16547",
+            "NonRes": "596",
+            "Hispanic": "1,960",
+            "Black": "253",
+            "White": "969",
+            "Native": "24",
+            "Asian": "2,602",
+            "TwoMoreNonHispanic": "0",
+            "Unknown": "132"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 4,
+            "Essay": 1,
+            "LORS": 4,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 4,
+            "Volunteering": 2
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [],
+            "MidACT": [],
+            "TopACT": [],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "44454",
+            "RoomBoard": "7098",
+            "AvgAid": "17299"
+        }
+    },
+    "University of Chicago": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "2,061",
+            "F": "1,278",
+            "NonRes": "",
+            "Hispanic": "332",
+            "Black": "162",
+            "White": "626",
+            "Native": "0",
+            "Asian": "374",
+            "TwoMoreNonHispanic": "141",
+            "Unknown": "105"
+        },
+        "Importance": {
+            "GPA": 3,
+            "Standardized": 3,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [],
+            "MidACT": [],
+            "TopACT": [],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "61,179",
+            "RoomBoard": "18,396",
+            "AvgAid": 58901
+        }
+    },
+    "University of Colorado Boulder": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "15377",
+            "F": "13379",
+            "NonRes": "132",
+            "Hispanic": "903",
+            "Black": "0",
+            "White": "4,891",
+            "Native": "0",
+            "Asian": "471",
+            "TwoMoreNonHispanic": "490",
+            "Unknown": "46"
+        },
+        "Importance": {
+            "GPA": 1000,
+            "Standardized": 1000,
+            "Essay": 1000,
+            "LORS": 1000,
+            "EC": 1000,
+            "FirstGen": 1000,
+            "Legacy": 1000,
+            "Volunteering": 1000
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [
+                "590",
+                "570",
+                "1170"
+            ],
+            "MidSAT": [
+                "640",
+                "640",
+                "1280"
+            ],
+            "TopSAT": [
+                "690",
+                "700",
+                "1380"
+            ],
+            "LowACT": [
+                "24",
+                "24",
+                "26",
+                "26",
+                "26",
+                "26"
+            ],
+            "MidACT": [
+                "27",
+                "29",
+                "29",
+                "29",
+                "29",
+                "29"
+            ],
+            "TopACT": [
+                "30",
+                "33",
+                "31",
+                "31",
+                "31",
+                "31"
+            ],
+            "AvgGPA": "3.66"
+        },
+        "Finances": {
+            "Tuition": "38314",
+            "RoomBoard": "16146",
+            "AvgAid": "19404"
+        }
+    },
+    "University of Florida": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "13308",
+            "F": "18608",
+            "NonRes": "100",
+            "Hispanic": "1,392",
+            "Black": "350",
+            "White": "3,277",
+            "Native": "3",
+            "Asian": "780",
+            "TwoMoreNonHispanic": "308",
+            "Unknown": "123"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 2,
+            "Essay": 1,
+            "LORS": 4,
+            "EC": 1,
+            "FirstGen": 2,
+            "Legacy": 4,
+            "Volunteering": 2
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [650, 640, 1290],
+            "MidSAT": [670, 700, 1370],
+            "TopSAT": [720, 740, 1460],
+            "LowACT": [26, 28, 29, 29, 29],
+            "MidACT": [31, 31, 31, 31, 31],
+            "TopACT": [31, 35, 33, 33, 33],
+            "AvgGPA": "3.88"
+        },
+        "Finances": {
+            "Tuition": "28658",
+            "RoomBoard": "10400",
+            "AvgAid": "10500"
+        }
+    },
+    "University of Maryland": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "6079",
+            "F": "5205",
+            "NonRes": "107",
+            "Hispanic": "198",
+            "Black": "574",
+            "White": "547",
+            "Native": "0",
+            "Asian": "561",
+            "TwoMoreNonHispanic": "129",
+            "Unknown": "24"
+        },
+        "Importance": {
+            "GPA": 1000,
+            "Standardized": 1000,
+            "Essay": 1000,
+            "LORS": 1000,
+            "EC": 1000,
+            "FirstGen": 1000,
+            "Legacy": 1000,
+            "Volunteering": 1000
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "610",
+                "600",
+                "1210"
+            ],
+            "MidSAT": [
+                "650",
+                "650",
+                "1300"
+            ],
+            "TopSAT": [
+                "690",
+                "700",
+                "1390"
+            ],
+            "LowACT": [
+                "21",
+                "23",
+                "23",
+                "23",
+                "23",
+                "23"
+            ],
+            "MidACT": [
+                "25",
+                "27",
+                "26",
+                "26",
+                "26",
+                "26"
+            ],
+            "TopACT": [
+                "27",
+                "30",
+                "29",
+                "29",
+                "29",
+                "29"
+            ],
+            "AvgGPA": "3.96"
+        },
+        "Finances": {
+            "Tuition": "26594",
+            "RoomBoard": "14203",
+            "AvgAid": 13412
+        }
+    },
+    "University of Michigan": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "7715",
+            "F": "8311",
+            "NonRes": 298,
+            "Hispanic": 846,
+            "Black": 338,
+            "White": 3418,
+            "Native": 8,
+            "Asian": 1416,
+            "TwoMoreNonHispanic": 387,
+            "Unknown": 332
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 2,
+            "Essay": 2,
+            "LORS": 2,
+            "EC": 3,
+            "FirstGen": 2,
+            "Legacy": 4,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [],
+            "MidACT": [],
+            "TopACT": [],
+            "AvgGPA": "3.88"
+        },
+        "Finances": {
+            "Tuition": "53232",
+            "RoomBoard": "13,171",
+            "AvgAid": "21174"
+        }
+    },
+    "University of Minnesota": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "16,981",
+            "F": "21,380",
+            "NonRes": "346",
+            "Hispanic": "482",
+            "Black": "562",
+            "White": "3,977",
+            "Native": "27",
+            "Asian": "947",
+            "TwoMoreNonHispanic": "310",
+            "Unknown": "80"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 3,
+            "LORS": 3,
+            "EC": 3,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [
+                "650",
+                "650",
+                "1300"
+            ],
+            "MidSAT": [
+                "676",
+                "702",
+                "1378"
+            ],
+            "TopSAT": [
+                "700",
+                "770",
+                "1470"
+            ],
+            "LowACT": [
+                "25",
+                "25",
+                "27",
+                "25",
+                "27",
+                "27"
+            ],
+            "MidACT": [
+                "28",
+                "29",
+                "29",
+                "28",
+                "31",
+                "29"
+            ],
+            "TopACT": [
+                "31",
+                "33",
+                "32",
+                "32",
+                "34",
+                "32"
+            ],
+            "AvgGPA": "3.9"
+        },
+        "Finances": {
+            "Tuition": "33818",
+            "RoomBoard": "15544",
+            "AvgAid": 16337
+        }
+    },
+    "University of Pennsylvania": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "5015",
+            "F": "3013",
+            "NonRes": 318,
+            "Hispanic": 259,
+            "Black": 219,
+            "White": 629,
+            "Native": 3,
+            "Asian": 709,
+            "TwoMoreNonHispanic": 165,
+            "Unknown": 113
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 1,
+            "Legacy": 1,
+            "Volunteering": 1
+        },
+        "Testing": {
+            "Optional": false,
+            "LowSAT": [
+                "730",
+                "770",
+                "1500"
+            ],
+            "MidSAT": [
+                "750",
+                "790",
+                "1540"
+            ],
+            "TopSAT": [
+                "770",
+                "800",
+                "1570"
+            ],
+            "LowACT": [
+                "33",
+                "35",
+                "34",
+                "33",
+                "34",
+                "34"
+            ],
+            "MidACT": [
+                "35",
+                "35",
+                "35",
+                "35",
+                "35",
+                "35"
+            ],
+            "TopACT": [
+                "36",
+                "36",
+                "35",
+                "36",
+                "35",
+                "36"
+            ],
+            "AvgGPA": "3.9"
+        },
+        "Finances": {
+            "Tuition": "61710",
+            "RoomBoard": "11754",
+            "AvgAid": "523400"
+        }
+    },
+    "University of Southern California": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "9,670",
+            "F": "2,961",
+            "NonRes": "470",
+            "Hispanic": "733",
+            "Black": "328",
+            "White": "969",
+            "Native": "8",
+            "Asian": "872",
+            "TwoMoreNonHispanic": "227",
+            "Unknown": "56"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 1,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [],
+            "MidSAT": [],
+            "TopSAT": [],
+            "LowACT": [],
+            "MidACT": [],
+            "TopACT": [],
+            "AvgGPA": "3.79"
+        },
+        "Finances": {
+            "Tuition": "61503",
+            "RoomBoard": "17,434",
+            "AvgAid": 58131
+        }
+    },
+    "University of Texas Austin": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "16,249",
+            "F": "22,342",
+            "NonRes": "362",
+            "Hispanic": "2,688",
+            "Black": "460",
+            "White": "2,607",
+            "Native": "10",
+            "Asian": "2,461",
+            "TwoMoreNonHispanic": "350",
+            "Unknown": "165"
+        },
+        "Importance": {
+            "GPA": 3,
+            "Standardized": 3,
+            "Essay": 3,
+            "LORS": 3,
+            "EC": 3,
+            "FirstGen": 3,
+            "Legacy": 4,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+
+            ],
+            "MidSAT": [
+
+            ],
+            "TopSAT": [
+
+            ],
+            "LowACT": [
+
+            ],
+            "MidACT": [
+
+            ],
+            "TopACT": [
+            ],
+            "AvgGPA": "3.83"
+        },
+        "Finances": {
+            "Tuition": "40996",
+            "RoomBoard": "13,058",
+            "AvgAid": "19550"
+        }
+    },
+    "University of Wisconsin Madison": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "15790",
+            "F": "18098",
+            "NonRes": 745,
+            "Hispanic": 796,
+            "Black": 246,
+            "White": 3902,
+            "Native": 20,
+            "Asian": 1147,
+            "TwoMoreNonHispanic": 482,
+            "Unknown": 286
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 2,
+            "LORS": 2,
+            "EC": 2,
+            "FirstGen": 3,
+            "Legacy": 4,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "660",
+                "690",
+                "1370"
+            ],
+            "MidSAT": [
+                "700",
+                "750",
+                "1440"
+            ],
+            "TopSAT": [
+                "730",
+                "780",
+                "1500"
+            ],
+            "LowACT": [
+                "27",
+                "27",
+                "8",
+                "27",
+                "29",
+                "28"
+            ],
+            "MidACT": [
+                "29",
+                "32",
+                "8",
+                "30",
+                "32",
+                "30"
+            ],
+            "TopACT": [
+                "33",
+                "34",
+                "9",
+                "33",
+                "34",
+                "33"
+            ],
+            "AvgGPA": "3.13"
+        },
+        "Finances": {
+            "Tuition": "38608",
+            "RoomBoard": "12894",
+            "AvgAid": 20697
+        }
+    },
+    "Yale": {
+        "Location": {
+            "State": ""
+        },
+        "RaceGender": {
+            "M": "3,164",
+            "F": "3,315",
+            "NonRes": "180",
+            "Hispanic": "224",
+            "Black": "145",
+            "White": "486",
+            "Native": "6",
+            "Asian": "349",
+            "TwoMoreNonHispanic": "117",
+            "Unknown": "45"
+        },
+        "Importance": {
+            "GPA": 1,
+            "Standardized": 3,
+            "Essay": 1,
+            "LORS": 1,
+            "EC": 1,
+            "FirstGen": 3,
+            "Legacy": 3,
+            "Volunteering": 3
+        },
+        "Testing": {
+            "Optional": true,
+            "LowSAT": [
+                "740",
+                "760",
+                "1470"
+            ],
+            "MidSAT": [
+                "760",
+                "780",
+                "1540"
+            ],
+            "TopSAT": [
+                "780",
+                "800",
+                "1560"
+            ],
+            "LowACT": [
+                "32",
+                "35",
+                "33",
+                "33",
+                "33",
+                "33"
+            ],
+            "MidACT": [
+                "34",
+                "35",
+                "35",
+                "35",
+                "35",
+                "35"
+            ],
+            "TopACT": [
+                "35",
+                "36",
+                "35",
+                "35",
+                "35",
+                "35"
+            ],
+            "AvgGPA": "4.0"
+        },
+        "Finances": {
+            "Tuition": "64,700",
+            "RoomBoard": "19,180",
+            "AvgAid": "56890"
+        }
+    }
+}

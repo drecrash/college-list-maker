@@ -1,0 +1,545 @@
+{
+    "Arizona State University": {
+        "Tech Startup Founder": 1,
+        "Podcast Founder": 1,
+        "Student Government President": 1,
+        "Club Founder": 1,
+        "Club President": 1,
+        "Titled Position in Club": 1,
+        "Model United Nations": 1,
+        "Volunteer": 1,
+        "Personal CS Project": 1,
+        "Paid Internship": 1,
+        "AP Scholar": 1
+
+    },
+    "Boston University": {
+        "Job": 1,
+        "Nonprofit Member": 1,
+        "Paid Internship": 1,
+        "Club President": 1,
+        "Business Founder": 1,
+        "DECA Finalist": 1,
+        "National Merit": 1
+
+    },
+    "Carnegie Mellon University": {
+        "Fundraiser": 1,
+        "Independent Research": 1,
+        "Paid Internship": 3,
+        "Job": 1,
+        "Titled Position in Club": 1,
+        "Model United Nations": 1,
+        "Club Founder": 1,
+        "Varsity Sport": 1,
+        "Volunteer": 1,
+        "Student Government": 1
+
+
+
+    },
+    "Columbia": {
+        "Tech Startup Founder": 1,
+        "RSI": 1,
+        "Published Research": 2,
+        "Tutoring": 1,
+        "Club President": 3,
+        "Volunteer": 2,
+        "USACO Platinum": 1,
+        "National Hackathon Winner": 1,
+        "Fundraiser": 1,
+        "Independent Research": 2,
+        "Paid Internship": 2,
+        "Job": 2,
+        "Podcast Founder": 1,
+        "Organization Founder": 2,
+        "Varsity Sport": 1,
+        "Stanford Summer Institute": 1,
+        "Sport Captain": 1,
+        "Club Founder": 1
+    },
+    "Cornell": {
+        "Tech Startup Founder": 1,
+        "RSI": 1,
+        "Published Research": 1,
+        "Tutoring": 1,
+        "Club President": 2,
+        "Volunteer": 3,
+        "USACO Platinum": 1,
+        "National Hackathon Winner": 1,
+        "Paid Internship": 4,
+        "Club Founder": 1,
+        "Titled Position in Club": 1,
+        "AP Scholar": 1,
+        "National Merit": 2,
+        "National Honor Society": 1,
+        "Job": 2,
+        "Nonprofit Member": 1,
+        "Business Founder": 1,
+        "DECA Finalist": 1,
+        "Fundraiser": 1,
+        "Independent Research": 1,
+        "Varsity Sport": 1,
+        "Student Government": 1
+
+        
+        
+
+    },
+    "Duke University": {
+        "Job": 3,
+        "Nonprofit Member": 1,
+        "Paid Internship": 2,
+        "Club President": 3,
+        "Business Founder": 1,
+        "DECA Finalist": 1,
+        "National Merit": 1,
+        "School Newspaper": 1,
+        "MIT Engineering and Science Program": 1,
+        "National Honor Society": 1,
+        "Varsity Sport": 2,
+        "Student Government": 1,
+        "Club Member": 1,
+        "AP Scholar": 1,
+        "Volunteer": 1,
+        "Podcast Founder": 1,
+        "Independent Research": 1,
+        "Organization Founder": 2,
+        "Stanford Summer Institute": 1,
+        "Published Research": 1,
+        "Sport Captain": 1,
+        "Club Founder": 1
+
+
+
+    },
+    "Georgetown University": {
+        "Published Research": 1,
+        "Paid Internship": 1,
+        "Organization Founder": 1,
+        "Job": 1,
+        "Sport Captain": 1,
+        "Club Founder": 1,
+        "Club President": 1
+
+    },
+    "Georgia Institute of Technology": {
+        "Tech Startup Founder": 1,
+        "RSI": 1,
+        "Published Research": 1,
+        "Tutoring": 1,
+        "Club President": 1,
+        "Volunteer": 4,
+        "USACO Platinum": 1,
+        "National Hackathon Winner": 1,
+        "Paid Internship": 3,
+        "Club Founder": 1,
+        "Titled Position in Club": 1,
+        "AP Scholar": 1,
+        "National Merit": 1,
+        "National Honor Society": 1,
+        "Personal CS Project": 1,
+        "Research": 1,
+        "Student Government": 2,
+        "Business Competition Award": 1,
+        "SCIOLY State Award": 1,
+        "Varsity Sport": 1
+
+    },
+    "Harvard": {
+        "Tech Startup Founder": 2,
+        "RSI": 1,
+        "Published Research": 2,
+        "Tutoring": 1,
+        "Club President": 6,
+        "Volunteer": 3,
+        "USACO Platinum": 1,
+        "National Hackathon Winner": 1,
+        "Club Founder": 3,
+        "Scholastic Writing Award": 1,
+        "National Science Olympiad": 1,
+        "AIME Qualifier": 1,
+        "MIT Engineering and Science Program": 1,
+        "Podcast Founder": 3,
+        "Student Government President": 1,
+        "Titled Position in Club": 1,
+        "Model United Nations": 2,
+        "Personal CS Project": 1,
+        "Paid Internship": 3,
+        "AP Scholar": 2,
+        "Independent Research": 1,
+        "Organization Founder": 3,
+        "Varsity Sport": 1,
+        "Stanford Summer Institute": 1,
+        "Research": 1,
+        "Sport Captain": 2,
+        "NASA Writing Competition Winner": 1,
+        "Job": 1
+
+
+
+
+
+
+
+
+    },
+    "Indiana University Bloomington": {
+        "Personal CS Project": 1,
+        "Research": 1,
+        "Paid Internship": 1,
+        "Volunteer": 1,
+        "Student Government": 1,
+        "Business Competition Award": 1,
+        "SCIOLY State Award": 1
+
+    },
+    "Johns Hopkins University": {
+
+    },
+    "Michigan State University": {
+        "Tech Startup Founder": 1,
+        "Podcast Founder": 1,
+        "Student Government President": 1,
+        "Club Founder": 1,
+        "Club President": 1,
+        "Titled Position in Club": 1,
+        "Model United Nations": 1,
+        "Volunteer": 1,
+        "Personal CS Project": 1,
+        "Paid Internship": 1,
+        "AP Scholar": 1
+        
+    },
+    "New York University": {
+        "Paid Internship": 2,
+        "Club Founder": 1,
+        "Titled Position in Club": 1,
+        "Volunteer": 1,
+        "AP Scholar": 1,
+        "National Merit": 2,
+        "National Honor Society": 1,
+        "Job": 1,
+        "Nonprofit Member": 1,
+        "Club President": 1,
+        "Business Founder": 1,
+        "DECA Finalist": 1
+
+    },
+    "North Carolina State University": {
+
+    },
+    "Northwestern University": {
+        "Paid Internship": 4,
+        "Club Founder": 2,
+        "Titled Position in Club": 1,
+        "Volunteer": 3,
+        "AP Scholar": 2,
+        "National Merit": 2,
+        "National Honor Society": 2,
+        "Job": 3,
+        "Nonprofit Member": 1,
+        "Club President": 3,
+        "Business Founder": 1,
+        "DECA Finalist": 1,
+        "School Newspaper": 1,
+        "MIT Engineering and Science Program": 1,
+        "Varsity Sport": 3,
+        "Student Government": 2,
+        "Club Member": 1,
+        "Podcast Founder": 1,
+        "Independent Research": 1,
+        "Organization Founder": 2,
+        "Stanford Summer Institute": 1,
+        "Published Research": 1,
+        "Sport Captain": 1
+
+    },
+    "Penn State University": {
+        "Tech Startup Founder": 1,
+        "Podcast Founder": 2,
+        "Student Government President": 1,
+        "Club Founder": 1,
+        "Club President": 2,
+        "Titled Position in Club": 1,
+        "Model United Nations": 1,
+        "Volunteer": 2,
+        "Personal CS Project": 1,
+        "Paid Internship": 1,
+        "AP Scholar": 2,
+        "School Newspaper": 1,
+        "MIT Engineering and Science Program": 1,
+        "National Honor Society": 1,
+        "Varsity Sport": 2,
+        "Student Government": 1,
+        "Job": 1,
+        "Club Member": 1,
+        "Independent Research": 1,
+        "Organization Founder": 1,
+        "Stanford Summer Institute": 1
+
+
+    },
+    "Princeton": {
+        "Tech Startup Founder": 1,
+        "RSI": 1,
+        "Published Research": 2,
+        "Tutoring": 2,
+        "Club President": 3,
+        "Volunteer": 3,
+        "USACO Platinum": 1,
+        "National Hackathon Winner": 1,
+        "Job": 2,
+        "Music Producer": 1,
+        "Sport Captain": 2,
+        "Boy Scouts": 1,
+        "AP Scholar": 1,
+        "Podcast Founder": 1,
+        "Independent Research": 1,
+        "Organization Founder": 2,
+        "Varsity Sport": 1,
+        "Stanford Summer Institute": 1,
+        "Paid Internship": 1,
+        "Club Founder": 1
+
+
+
+    },
+    "Purdue University": {
+        "Personal CS Project": 2,
+        "Research": 2,
+        "Paid Internship": 1,
+        "Volunteer": 1,
+        "Student Government": 1,
+        "Business Competition Award": 1,
+        "SCIOLY State Award": 1,
+        "Tech Startup Founder": 1,
+        "Tutoring": 1,
+        "Published Book": 1,
+        "Club President": 1,
+        "Eagle Scout": 1,
+        "USAMO Qualifier": 1,
+        "USACO Gold": 1,
+        "National Merit": 1,
+        "Job": 1,
+        "Music Producer": 1,
+        "Sport Captain": 1,
+        "Boy Scouts": 1,
+        "AP Scholar": 1
+
+
+    },
+    "Stanford": {
+        "Tech Startup Founder": 1,
+        "Research": 1,
+        "Personal CS Project": 2,
+        "Tutoring": 1,
+        "Published Book": 1,
+        "Club President": 4,
+        "Eagle Scout": 1,
+        "USAMO Qualifier": 1,
+        "USACO Gold": 2,
+        "National Merit": 1,
+        "Volunteer": 1,
+        "Podcast Founder": 1,
+        "Independent Research": 1,
+        "Organization Founder": 3,
+        "Varsity Sport": 1,
+        "Stanford Summer Institute": 1,
+        "Published Research": 1,
+        "Paid Internship": 1,
+        "Job": 2,
+        "Sport Captain": 1,
+        "Club Founder": 2,
+        "Student Government President": 1
+
+
+    },
+    "Texas A&M University": {
+
+    },
+    "The Ohio State University": {
+        "Job": 1,
+        "Music Producer": 1,
+        "Sport Captain": 1,
+        "Boy Scouts": 1,
+        "AP Scholar": 1
+
+
+    },
+    "Tufts University": {
+        "Job": 1,
+        "Nonprofit Member": 1,
+        "Paid Internship": 1,
+        "Club President": 1,
+        "Business Founder": 1,
+        "DECA Finalist": 1,
+        "National Merit": 1
+
+    },
+    "University of California Davis": {
+
+    },
+    "University of California Irvine": {
+        "Personal CS Project": 1,
+        "Research": 1,
+        "Paid Internship": 1,
+        "Volunteer": 1,
+        "Student Government": 1,
+        "Business Competition Award": 1,
+        "SCIOLY State Award": 1
+
+    },
+    "University of California Los Angeles": {
+        "Personal CS Project": 1,
+        "Research": 1,
+        "Paid Internship": 1,
+        "Volunteer": 1,
+        "Student Government": 1,
+        "Business Competition Award": 1,
+        "SCIOLY State Award": 1
+
+    },
+    "University of California San Diego": {
+        "Personal CS Project": 1,
+        "Research": 1,
+        "Paid Internship": 1,
+        "Volunteer": 1,
+        "Student Government": 1,
+        "Business Competition Award": 1,
+        "SCIOLY State Award": 1
+
+    },
+    "University of Chicago": {
+        "Fundraiser": 1,
+        "Independent Research": 1,
+        "Paid Internship": 2,
+        "Job": 2,
+        "Published Research": 1,
+        "Organization Founder": 1,
+        "Sport Captain": 1,
+        "Club Founder": 1,
+        "Club President": 1
+
+    },
+    "University of Colorado Boulder": {
+
+    },
+    "University of Florida": {
+        "Personal CS Project": 1,
+        "Research": 1,
+        "Paid Internship": 1,
+        "Volunteer": 1,
+        "Student Government": 1,
+        "Business Competition Award": 1,
+        "SCIOLY State Award": 1
+
+    },
+    "University of Maryland": {
+        "School Newspaper": 1,
+        "MIT Engineering and Science Program": 1,
+        "National Honor Society": 1,
+        "Varsity Sport": 1,
+        "Student Government": 1,
+        "Job": 1,
+        "Club Member": 1,
+        "AP Scholar": 1
+
+    },
+    "University of Michigan": {
+        "Paid Internship": 2,
+        "Club Founder": 1,
+        "Titled Position in Club": 1,
+        "Volunteer": 1,
+        "AP Scholar": 1,
+        "National Merit": 1,
+        "National Honor Society": 1,
+        "Fundraiser": 1,
+        "Independent Research": 1,
+        "Job": 1
+
+    },
+    "University of Minnesota": {
+
+    },
+    "University of Pennsylvania": {
+        "Job": 3,
+        "Nonprofit Member": 1,
+        "Paid Internship": 2,
+        "Club President": 2,
+        "Business Founder": 1,
+        "DECA Finalist": 1,
+        "National Merit": 1,
+        "School Newspaper": 1,
+        "MIT Engineering and Science Program": 1,
+        "National Honor Society": 1,
+        "Varsity Sport": 1,
+        "Student Government": 1,
+        "Club Member": 1,
+        "AP Scholar": 1,
+        "Published Research": 1,
+        "Organization Founder": 1,
+        "Sport Captain": 1,
+        "Club Founder": 1
+        
+
+    },
+    "University of Southern California": {
+        "AIME Qualifier": 1,
+        "USNCO Qualifier": 1,
+        "Club Founder": 1,
+        "Club President": 1,
+        "Volunteer": 1,
+        "AP Scholar": 1
+
+    },
+    "University of Texas Austin": {
+        "Tech Startup Founder": 1,
+        "RSI": 1,
+        "Published Research": 1,
+        "Tutoring": 1,
+        "Club President": 2,
+        "Volunteer": 2,
+        "USACO Platinum": 1,
+        "National Hackathon Winner": 1,
+        "Job": 1,
+        "Nonprofit Member": 1,
+        "Paid Internship": 2,
+        "Business Founder": 1,
+        "DECA Finalist": 1,
+        "National Merit": 1,
+        "Varsity Sport": 1,
+        "Student Government": 1
+
+    },
+    "University of Wisconsin Madison": {
+        "Tech Startup Founder": 1,
+        "Podcast Founder": 1,
+        "Student Government President": 1,
+        "Club Founder": 1,
+        "Club President": 1,
+        "Titled Position in Club": 1,
+        "Model United Nations": 1,
+        "Volunteer": 1,
+        "Personal CS Project": 1,
+        "Paid Internship": 1,
+        "AP Scholar": 1
+
+    },
+    "Yale": {
+        "Paid Internship": 1,
+        "Club Founder": 1,
+        "Titled Position in Club": 1,
+        "Volunteer": 2,
+        "AP Scholar": 1,
+        "National Merit": 1,
+        "National Honor Society": 1,
+        "Club President": 1,
+        "Podcast Founder": 1,
+        "Independent Research": 1,
+        "Organization Founder": 1,
+        "Varsity Sport": 1,
+        "Stanford Summer Institute": 1
+
+    }
+}

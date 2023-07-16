@@ -1,0 +1,311 @@
+"","Degree-seeking, first-time freshmen1,0711,344",--,
+"","Other first-year, degree-seeking",,
+"","All other degree-seeking3,4303,872",3013,
+"","Total degree-seeking4,5015,216",3013,
+"",All other undergraduates enrolled in credit courses,,
+"","Total undergraduates4,5015,216-",3013-,
+"","Degree-seeking, first-time1,4712,050",82156,
+"","All other degree-seeking3,8564,849",365785,
+"",All other graduates enrolled in credit courses,,
+"","Total graduate5,3276,899-",447941-,
+"Total all graduate13,614"
+"","Nonresident aliens318","1,308","1,308",
+"","Hispanic/Latinx259","1,012","1,012",
+"","Black or African American, non-Hispanic219",771,771,
+"","White, non-Hispanic629","3,008","3,008",
+"","American Indian or Alaska Native, non-Hispanic3",11,11,
+"","Asian, non-Hispanic709","2,688","2,688",
+"","Native Hawaiian or other Pacific Islander, non-Hispanic-",1,1,
+"","Two or more races, non-Hispanic165",511,511,
+"","Race and/or ethnicity unknown113",450,450,
+"","TOTAL2,415","9,760","9,760",
+"",Certificate/diploma125,
+"",Associate degrees,
+"","Bachelor's degrees2,869",
+"",Postbachelor's certificates93,
+"","Master's degrees4,535",
+"",Post-Master's certificates1,
+"",Doctoral degrees – research/scholarship639,
+"",Doctoral degrees – professional practice723,
+"",Doctoral degrees – other-,
+"",,Recipients of,Recipients of Students who,,Total
+"",,a Federal,a Subsidized did not receive,,(sum of 3
+"",Fall 2016 Cohort,Pell Grant,Stafford Loan who either a Pell Grant,,columms
+"",,,did not receive a or a subsidized,,to the left)
+"",,,Pell Grant Stafford Loan,,
+"","Initial 2016 cohort of first-time, full-time bachelor's (or equivalent)",,,,
+A,,317,"101 2,013",,"2,431"
+"",degree-seeking undergraduate students; total all students:,,,,
+"","Of the initial 2016 cohort, how many did not persist and did not",,,,
+"","graduate for the following reasons: death, permanent disability, service",,,,
+B,,-,- 1,,1
+"","in the armed forces, foreign aid service of the federal government, or",,,,
+"",official church missions; total allowable exclusions:,,,,
+"","Final 2016 cohort, after adjusting for allowable exclusions - subtract",,,,
+C,,317,"101 2,012",,"2,430"
+"",question B5 from question B4:,,,,
+"","Of the initial 2016 cohort, how many completed the program in four",,,,
+D,,264,"86 1,782",,"2,132"
+"","years or less - by August 31, 2020:",,,,
+"","Of the initial 2016 cohort, how many completed the program in more",,,,
+E,"than four years but in five years or less - after August 31, 2020 and by",26,8 138,,172
+"","August 31, 2021:",,,,
+"","Of the initial 2016 cohort, how many completed the program in more",,,,
+F,"than five years but in six years or less - after August 31, 2021 and by",4,- 27,,31
+"","August 31, 2022:",,,,
+G,"Total graduating within six years (sum of lines D,E, and F)",294,"94 1,947",,"2,335"
+"",Six-year graduation rate for 2015 cohort - question B10 divided by,,,,
+H,,92.7%,93.1% 96.8%,,96.1%
+"",question B6:,,,,
+"","Initial 2015 cohort of first-time, full-time bachelor's, or equivalent326degree-seeking undergraduate students; total all students:",107,"1,948","2,381",
+"","Of the initial 2015 cohort, how many did not persist and did notgraduate for the following reasons: death, permanent disability, service-in the armed forces, foreign aid service of the federal government, orofficial church missions; total allowable exclusions:",-,-,-,
+"","Final 2015 cohort, after adjusting for allowable exclusions - subtract326question B5 from question B4:",107,"1,948","2,381",
+"","Of the initial 2015 cohort, how many completed the program in four278years or less - by August 31, 2019:",97,"1,749","2,124",
+"","Of the initial 2015 cohort, how many completed the program in morethan four years but in five years or less - after August 31, 2019 and by29August 31, 2020:",6,106,141,
+"","Of the initial 2015 cohort, how many completed the program in morethan five years but in six years or less - after August 31, 2020 and by4August 31, 2021:",2,20,26,
+"","Total graduating within six years (sum of questions B7, B8, and B9):311",105,"1,875","2,291",
+"","Six-year graduation rate for 2015 cohort - question B10 divided by95.4%question B6:",98.1%,96.3%,96.2%,
+"","For the cohort of all full-time bachelor’s (or equivalent) degree-seeking undergraduate students who entered your institution asfreshmen in Fall 2021 (or the preceding summer term), what percentage was enrolled at your institution as of the date your98.4%institution calculates its official enrollment in Fall 2022?",
+"","Do you have a policy of placing students on a waiting list?x",,
+"","Number of qualified applicants offered a place on waiting list3,351",
+"","Number accepting a place on the waiting list2,508",
+"",Number of wait-listed students admitted147,
+"",Is your waiting list ranked?No,
+"","If yes, do you release that information to students?",
+"",Do you release that information to school counselors?,
+"",High school diploma is required and GED is accepted,
+"",High school diploma is required and GED is not accepted,
+"",High school diploma or equivalent is not requiredx,
+"",Require,
+"",Recommendx,
+"",Neither require nor recommend,
+"",Total academic units20,
+"",English4,
+"",Mathematics4,
+"",Science3,
+"","Of these, units that must be lab3",
+"",Foreign language4,
+"",Social studies2,
+"",History3,
+"",Academic electives,
+"",Computer Science,
+"",Visual/Performing Arts,
+"",Other (specify)+,
+C6,Open admission policy as described above for all students
+C6,"Open admission policy as described above for most students, but--"
+C6,selective admission for out-of-state students
+C6,selective admission to some programs
+C6,other (explain)
+C7,"Relative importance of each of the following academic and nonacademic factors in first-time, first-year, degree-seeking"
+"",(freshman) admission decisions.
+C7,Very Academic Important ConsideredNot
+"",Important Considered
+C7,Rigor of secondary school record x
+C7,Class rank x
+C7,Academic GPA x
+C7,Standardized test scores x
+C7,Application Essay x
+C7,Recommendation(s) x
+C7,Nonacademic
+C7,Interview x
+C7,Extracurricular activities x
+C7,Talent/ability x
+C7,Character/personal qualities x
+C7,First generation x
+C7,Alumni/ae relation x
+C7,Geographical residence x
+C7,State residency x
+C7,Religious affiliation/commitment x
+C7,Racial/ethnic status x
+C7,Volunteer work x
+C7,Work experience x
+C7,Level of applicant’s interest x
+"",,,
+"",Latest date by which SAT or ACT scores must be received for fall-term admission2/1,
+"","Latest date by which SAT Subject Test scores must be received for fall-term admission2/1",
+"","If necessary, use this space to clarify your test policies (e.g., if tests are recommended for some students, or if tests are not required of somestudents due to differences by academic program, student academic background, or if other examinations may be considered in lieu of theSAT and ACT):See policy online: www.admissions.upenn.edu/apply/whatpennlooksfor/testing",
+"",SAT,
+"",ACT,
+"","SAT Subject Testsx",
+"","APx",
+"",CLEP,
+"","Institutional Examx",
+"",State Exam (specify):,
+C9,SAT Evidence-Based Reading + Writing 730,750,,770
+C9,SAT Math 770,790,,800
+C9,ACT Composite 34,35,,35
+C9,ACT Math 33,35,,36
+"",ACT English 35,35,,36
+"",ACT Writing,,,
+C9,ACT Science 33,35,,35
+C9,ACT Reading 34,35,,36
+C9,"Percent of first-time, first-year (freshman) students with scores in each range:",,,
+C9,,SAT Evidence-,,SAT Math
+"",SAT Composite,Based Reading,,
+"",,and Writing,,
+C9,700-800,93%,,97%
+C9,600-699,7%,,3%
+C9,500-599,0%,,0%
+C11,Percent who had GPA of 4.0,54%
+"",Percent who had GPA between 3.75 and 3.99,36%
+C11,Percent who had GPA between 3.50 and 3.74,6%
+C11,Percent who had GPA between 3.25 and 3.49,4%
+C11,Percent who had GPA between 3.00 and 3.24,0%
+C11,Percent who had GPA between 2.50 and 2.99,
+C11,Percent who had GPA between 2.0 and 2.49,0%
+C11,Percent who had GPA between 1.0 and 1.99,0%
+D5,High school transcript,x,
+D5,College transcript(s),x,
+D5,Essay or personal statement,x,
+D5,Interview,,x
+D5,Standardized test scores,,x
+D2,Men,"1,876",87,53
+D2,Women,"1,637",98,59
+"",Another Gender,0,0,0
+D2,Total,"3,513",185,112
+"","Does an open admission policy, if reported, apply to transfer students?x",
+"","Describe additional requirements for transfer admission, if applicable:https://admissions.upenn.edu/admissions-and-financial-aid/preparing-for-admission/transfer-admission/curricular-requirements",
+"","Report the lowest grade earned for any course that may be transferred forcredit:",C,
+"","Maximum number of credits or courses that may be transferred from a two-year institution:",16course units,
+"","Maximum number of credits or courses that may be transferred from a four-year institution:",16course units,
+"","Minimum number of credits that transfers must complete at your institutionto earn an associate degree:",,,,
+"","Minimum number of credits that transfers must complete at your institutionto earn a bachelor’s degree:",64,,course units,
+"","Describe other transfer credit policies:www.admissions.upenn.edu/apply/transfer-admission/transfer-of-credits",
+F1,Percent who are from out of state (exclude,,
+"",,82%,81%
+"",international/nonresident aliens from the numerator and,,
+F1,Percent of men who join fraternities,0%,20%
+F1,Percent of women who join sororities,0%,21
+"","Percent who live in college-owned, -operated, or -affiliated housing*",100%,60%
+F1,Percent who live off campus or commute*,0%,40%
+F1,Percent of students age 25 and older,0%,0%
+F1,Average age of full-time students,19,20
+F1,Average age of all students (full- and part-time),19,20
+G1,,First-Year,,Undergraduates
+G1,PRIVATE INSTITUTIONS,,,
+"",,$,"58,620","$58,620"
+G5,Books and supplies,$,"1,358",$,"1,358",$,"1,358"
+G5,Room only,,,,,$,"12,564"
+G5,Board only,,,$,"2,318",$,"5,796"
+G5,,,,,,,
+"",Room and board total  (if your college,,,,,,
+"",cannot provide separate room and board,,,,,,
+"",figures for commuters not living at home):,,,,,,
+G5,Transportation,$,"1,062",$,"1,706",$,"1,062"
+G5,Other expenses,$,"2,008",$,"2,008",$,"2,008"
+G6,Undergraduate per-credit-hour charges (tuition only),,,,,,
+G6,,,,,,,
+"",PRIVATE INSTITUTIONS:,,,,,,
+G6,PUBLIC INSTITUTIONS,,,,,,
+"",In-district:,,,,,,
+G6,PUBLIC INSTITUTIONS,,,,,,
+"",In-state (out-of-district):,,,,,,
+G6,PUBLIC INSTITUTIONS,,,,,,
+"","Indicate the academic year for which data are reported for items H1, H2, H2A, and H6 below:",,x,
+"",Federal methodology (FM),
+"",Institutional methodology (IM),
+"","Both FM and IMx",
+"","Federal$         12,022,206$76,495",
+"","State (i.e., all states, not only the state in which your institution is located)$           1,795,938$-",
+"","Institutional: Endowed scholarships, annual gifts and tuition funded grants, awarded by the college, excluding$       230,259,792$-athletic aid and tuition waivers (which are reported below).",
+"","Scholarships/grants from external sources (e.g., Kiwanis, National Merit) not awarded by the college$           4,953,400$         3,553,452",
+"","Total Scholarships/Grants$       249,031,336$         3,629,947",
+"","Student loans from all sources (excluding parent loans)$8 09,614$       14,841,539",,
+"","Federal Work-Study$           8,875,658",,
+"","State and other (e.g., institutional) work-study/employment (Note: Excludes Federal Work-Study captured$           4,854,638$-above.)",,
+"","Total Self-Help$         14,539,910$       14,841,539",,
+"","Parent Loans$-$       11,063,233",
+"","Tuition Waivers (reporting is optional. Report tuition waivers in this row if you choose to report them. Do$           3,143,304$       10,637,883not report tuition waivers elsewhere).",
+"",Athletic Awards,
+"",a),Number of degree-seeking undergraduate students (CDS Item B1 if reporting on,,,,,,
+H2,,,,"2,338",,,"9,631",
+"",,Fall 2022 cohort),,,,,,
+H2,b),Number of students in line a who applied for need-based financial aid,,"1,283",,,"4,700",
+H2,c),Number of students in line b who were determined to have financial need,,"1,041",,,"4,275",
+H2,d),Number of students in line c who were awarded any financial aid,,"1,041",,,"4,275",
+H2,e),Number of students in line d who were awarded any need-based scholarship or,,,,,,
+"",,,,"1,027",,,"4,228",
+"",,grant aid,,,,,,
+H2,f),Number of students in line d who were awarded any need-based self-help aid,,,,,,
+"",,,,"1,041",,,"4,275",
+H2,g),Number of students in line d who were awarded any non-need-based scholarship,,,,,,
+"",,,,,-,,,-
+"",,or grant aid,,,,,,
+H2,h),"Number of students in line d whose need was fully met (exclude PLUS loans,",,,,,,
+"",,,,"1,041",,,"4,275",
+"",,"unsubsidized loans, and private alternative loans)",,,,,,
+H2,i),"On average, the percentage of need that was met of students who were awarded",,,,,,
+"",,any need-based aid. Exclude any aid that was awarded in excess of need as well as,,,,,,
+"",,,,100.0%,,,100.0%,
+"",,"any resources that were awarded to replace EFC (PLUS loans, unsubsidized loans,",,,,,,
+"",,and private alternative loans),,,,,,
+H2,j),The average financial aid package of those in line d. Exclude any resources that,,,,,,
+"",,"were awarded to replace EFC (PLUS loans, unsubsidized loans, and private",$,"62,265",,$,"61,103",
+"",,alternative loans),,,,,,
+H2,k),Average need-based scholarship and grant award of those in line e,$,"59,883",,$,"58,232",
+H2,l),"Average need-based self-help award (excluding PLUS loans, unsubsidized loans, and",,,,,,
+"",,,$,"3,484",,$,"3,964",
+"",,private alternative loans) of those in line f,,,,,,
+H2,m),"Average need-based loan (excluding PLUS loans, unsubsidized loans, and private",,,,,,
+"",,,$,"2,325",,$,"2,883",
+"",,alternative loans) of those in line f who were awarded a need-based loan,,,,,,
+"","Provide the number of students in the 2022 undergraduate class who started at your institution as first-time students and received abachelor's degree between July 1, 2021 and June 30, 2022. Exclude students who transferred into your institution","2,542",
+"","a)Any loan program: Federal Perkins, Federal Stafford Subsidized and Unsubsidized,institutional, state, private loans that your institution is aware of, etc. Include both44518%$      27,705Federal Direct Student Loans and Federal Family Education Loans.",
+"","b)Federal loan programs: Federal Perkins, Federal Stafford Subsidized andUnsubsidized. Include both Federal Direct Student Loans and Federal Family39716%$      15,096Education Loans.",
+"","c)Institutional loan programs.151%$      11,484",
+"",d)State loan programs.,
+"","e)Private alternative loans made by a bank or lender.1084%$      57,067",
+"","Institutional need-based scholarship or grant aid is availablex",
+"",Institutional non-need-based scholarship or grant aid is available,
+"",Institutional scholarship or grant aid is not available,
+"","If institutional financial aid is available for undergraduate degree-seeking nonresident aliens, provide the number of undergraduatedegree-seeking nonresident aliens who were awarded need-based or non-need-based aid:",375,
+"",Average dollar amount of institutional financial aid awarded to undergraduate degree-seeking nonresident aliens:,"$65,815",
+"",Total dollar amount of institutional financial aid awarded to undergraduate degree-seeking nonresident aliens:,"$       24,680,553",
+I1,a) Total number of instructional faculty,"1,498",377,"1,875"
+I1,b) Total number who are members of minority groups,427,100,527
+I1,c) Total number who are women,649,188,837
+I1,d) Total number who are men,849,189,"1,038"
+I1,e) Total number who are nonresident aliens (international),45,10,55
+I3,,2-9,10-19,20-29,30-39,40-49,50-99,100+,Total
+"",CLASS SECTIONS,,,,,,,,
+I3,,502,642,186,127,98,283,103,1941
+"",Agriculture1,,
+"",Natural resources and conservation1%3,,
+"",Architecture0%4,,
+"","Area, ethnic, and gender studies0%5",,
+"",Communication/journalism2%9,,
+"",Communication technologies10,,
+"",Computer and information sciences9%11,,
+"",Personal and culinary services12,,
+"",Education13,,
+"",Engineering9%14,,
+"",Engineering technologies15,,
+"","Foreign languages, literatures, and linguistics1%16",,
+"",Family and consumer sciences19,,
+"",Law/legal studies22,,
+"",English2%23,,
+"",Liberal arts/general studies24,,
+"",Library science25,,
+"",Biological/life sciences11%26,,
+"",Mathematics and statistics2%27,,
+"",Military science and military technologies28 & 29,,
+"",Interdisciplinary studies4%30,,
+"",Parks and recreation31,,
+"",Philosophy and religious studies7%38,,
+"",Theology and religious vocations39,,
+"",Physical sciences3%40,,
+"",Science technologies41,,
+"",Psychology3%42,,
+"","Homeland Security, law enforcement, firefighting, and protective services43",,
+"",Public administration and social services1%44,,
+"",Social sciences14%45,,
+"",Construction trades46,,
+"",Mechanic and repair technologies47,,
+"",Precision production48,,
+"",Transportation and materials moving49,,
+"",Visual and performing arts2%50,,
+"",Health professions and related programs9%51,,
+"",Business/marketing19%52,,
+"",History2%54,,
+"",Other,,
+"",TOTAL (should = 100%)0%0%100%,,
