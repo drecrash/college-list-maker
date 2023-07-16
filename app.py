@@ -1,6 +1,5 @@
 from flask import Flask, render_template, url_for, redirect, request, jsonify, send_file
 from flask_socketio import SocketIO
-from flask_login import UserMixin, login_user, LoginManager, login_required, logout_user, current_user
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy import and_
 import flask_wtf
@@ -28,4 +27,81 @@ import pytz
 import zipfile
 from sqlalchemy import create_engine, text
 
+from app_setup import app, db
+from funcs import get_data, get_ec_data, get_importance_data, sort_dict, main
+from forms import MainForm
 
+@app.route("/", methods=['GET', 'POST'])
+def index():
+    form = MainForm()
+    importance_data = get_importance_data()
+    all_ecs = list(importance_data.keys())
+    using_act = False
+    using_sat = False
+    act_score = 0
+    sat_score = 0
+    chosen_test = ''
+
+    ec_length = len(all_ecs)
+
+    if form.validate_on_submit():
+        if form.optional.data == "F":
+            if form.act_score.data:
+                using_act = True
+                act_score = form.act_score.data
+                chosen_test = 'A'
+            else:
+                using_sat = True
+                sat_score = form.sat_score.data
+                chosen_test = 'S'
+
+        gpa = form.gpa.data
+        income = form.income.data
+        essay = form.essay.data
+        ecs = form.extracurriculars.data
+        ecs = [char for char in ecs]
+
+        if using_act or using_sat:
+            test_optional = False
+        else:
+            test_optional = True
+
+        for i in range(len(ecs)):
+            if i == 0:
+                continue
+            elif ecs[i] == " " and ecs[i-1] == ",":
+                ecs[i] = ''
+
+        ecs_fin = ''
+        for i in range(len(ecs)):
+            ecs_fin += ecs[i]
+
+        ecs = ecs_fin
+        
+        ecs = ecs.split(',')
+
+        print("caaaa")
+        
+        #(user_gpa, user_testoptional, chosen_test, user_actscore, user_satscore, user_income, user_essayskills, user_ecs):
+        returned_string = main(float(gpa), test_optional, chosen_test, int(act_score), int(sat_score), int(income), int(essay), ecs)
+
+        print(returned_string)
+
+        return returned_string
+
+    else:
+        print(form.errors)
+
+
+    return render_template("listmaker.html", form = form, all_ecs = all_ecs, ec_length = ec_length)
+
+@app.route("/result")
+def finalresult(result):
+    return result
+
+if __name__ == '__main__':
+    with app.app_context():
+        db.create_all()
+    app.run(host='0.0.0.0', port=80, debug=True)
+
+    

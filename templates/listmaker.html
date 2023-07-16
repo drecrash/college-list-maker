@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script> 
+    <link rel="stylesheet" href="/static/listmaker.css">
+    <title>Document</title>
+</head>
+<body>
+    <form method="POST" action="" class="form" enctype="multipart/form-data">
+        {{ form.hidden_tag() }}
+        {{ form.csrf_token }}
+  
+        
+        <div class="gpa">
+            <span class="gpa-text">GPA (4.0 Scale)</span>
+            <span class="gpa-form">{{ form.gpa }}</span>
+        </div>
+
+        <div class="optional">
+            <span class="optional-text">Are you going test optional? (T/F)</span>
+            <span class="optional-form">{{ form.optional }}</span>
+        </div>      
+
+        <div class="act">
+          <span class="act-text">If you <b>aren't test optional</b>, and choosing your <b>ACT</b> score, what is it?</span>
+          <span class="act-form">{{ form.act_score }}</span>
+        </div>
+
+        <div class="sat">
+            <span class="sat-text">If you <b>aren't test optional</b>, and choosing your <b>SAT</b> score, what is it?</span>
+            <span class="sat-form">{{ form.sat_score }}</span>
+        </div>
+
+        <div class="income">
+            <span class="income-text">What is your income as an integer (Ex. 90000)</span>
+            <span class="income-form">{{ form.income }}</span>
+        </div>
+
+        <div class="essay">
+            <span class="essay-text">How good are you at writing essays? (1-5 Scale)</span>
+            <span class="essay-form">{{ form.essay }}</span>
+        </div>
+
+        <div class="ecs">
+            <span class="ecs-text">What ECs do you have? Split them up with commas (Ex. Club President, Organization Founder, USACO Gold)</span>
+            <span class="ecs-form">{{ form.extracurriculars(size=64) }}</span>
+        </div>
+
+        <div class="submit">
+            <span class="submit-buttom">{{ form.submit }}</span>
+        </div>       
+
+        
+    </form>
+
+    <script>
+        $(function() {
+          var availableTags = {{ all_ecs|tojson|safe }};
+          $("#ec-search").autocomplete({
+            source: function(request, response) {
+              // Split input at last comma and use last element for autocomplete
+              var inputArray = request.term.split(",");
+              var term = inputArray[inputArray.length - 1].trim();
+              var results = $.ui.autocomplete.filter(availableTags, term);
+              response(results.slice(0, {{ ec_length }}));
+            },
+            minLength: 1,
+            select: function(event, ui) {
+              // Prevent input field from being cleared
+              event.preventDefault();
+              // Get current input value
+              var value = this.value;
+              // Split input at last comma
+              var inputArray = value.split(",");
+              // Replace last element with selected autocomplete value
+              inputArray[inputArray.length - 1] = ui.item.value;
+              // Join input back together
+              this.value = inputArray.join(",");
+            }
+          });
+        });
+      </script>
+
+</body>
+</html>

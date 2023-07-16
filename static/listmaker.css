@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Open Sans", Helvetica;
+	background-color: #eef2ff;
+}
+
+.form {
+    display: inline-block;
+}
+
+.gpa, .optional, .act, .sat, .income, .ecs .essay{
+	padding-top: 10px;
+}
+
+.gpa-text, .optional-text, .act-text, .sat-text, .income-text, .ecs-text .essay-text{
+	font-size: 15px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 3px;
+	border: 10px;
+
+}
+
