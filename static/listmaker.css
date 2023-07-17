@@ -3,16 +3,24 @@
 }
 
 body {
-	font-family: "Open Sans", Helvetica;
+	font-family: "Schoolbell", sans-serif;
 	background-color: #eef2ff;
 }
 
+.main-form {
+	margin-left: 25%;
+}
 .form {
     display: inline-block;
 }
 
-.gpa, .optional, .act, .sat, .income, .ecs .essay{
+.gpa, .optional, .act, .sat, .income, .ecs, .essay{
 	padding-top: 10px;
+}
+
+.gpa-form, .optional-form, .act-form, .sat-form, .income-form, .ecs-form, .essay-form{
+	background-color: cadetblue;
+	color: blue;
 }
 
 .gpa-text, .optional-text, .act-text, .sat-text, .income-text, .ecs-text .essay-text{

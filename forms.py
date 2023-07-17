@@ -29,13 +29,13 @@ from sqlalchemy import create_engine, text
 
 
 class MainForm(FlaskForm):
-    gpa = StringField(validators=[InputRequired(), Length(min=1, max=2000)], render_kw={"placeholder": "GPA (4.0 Scale)"})
-    optional = StringField(validators=[InputRequired(), Length(min=1, max=1)], render_kw={"placeholder": "T/F"})
-    act_score = StringField(validators=[Length(min=0, max=2)], render_kw={"placeholder": "ACT Score (Optional)"})
-    sat_score = StringField(validators=[Length(min=0, max=4)], render_kw={"placeholder": "SAT Score (Optional)"})
-    income = StringField(validators=[InputRequired(), Length(min=3, max=8)], render_kw={"placeholder": "Income (Plain Integer)"})
-    essay = StringField(validators=[InputRequired(), Length(min=1, max=1)], render_kw={"placeholder": "Essay Writing Skills (1-5)"})
-    extracurriculars = StringField(validators=[InputRequired(), Length(min=4, max=2000)], render_kw={"placeholder": "Write your extracurriculars, separated by commas", "id": "ec-search"})
+    gpa = StringField(validators=[InputRequired(), Length(min=1, max=2000)], render_kw={"placeholder": "GPA (4.0 Scale)", "style": "background-color: cadetblue"})
+    optional = StringField(validators=[InputRequired(), Length(min=1, max=1)], render_kw={"placeholder": "T/F", "style": "background-color: cadetblue"})
+    act_score = StringField(validators=[Length(min=0, max=2)], render_kw={"placeholder": "ACT Score (Optional)", "style": "background-color: cadetblue"})
+    sat_score = StringField(validators=[Length(min=0, max=4)], render_kw={"placeholder": "SAT Score (Optional)", "style": "background-color: cadetblue"})
+    income = StringField(validators=[InputRequired(), Length(min=3, max=8)], render_kw={"placeholder": "Income (Plain Integer)", "style": "background-color: cadetblue"})
+    essay = StringField(validators=[InputRequired(), Length(min=1, max=1)], render_kw={"placeholder": "Essay Writing Skills (1-5)", "style": "background-color: cadetblue"})
+    extracurriculars = StringField(validators=[InputRequired(), Length(min=4, max=2000)], render_kw={"placeholder": "Write your extracurriculars, separated by commas", "id": "ec-search", "style": "background-color: cadetblue"})
 
 
 
